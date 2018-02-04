@@ -50,6 +50,16 @@ Below Burger branch, I also added some detailed information choices about two bu
 
 <br><li><b>Using Variables</b>
   <br><em>Book chapter 5 Building Objects with Variables</em>
+  <br>This part is not quite difficult to start and memorize. 
+  <br>Here are some notes that I took:
+  <br>Create variables: (set: $variableName to "string"/number/boolean)
+  <br>Print varibales: (pring: $variableName)
+  <br>Variables calculating: (set $variableName to $variableName +/-/*/ value)
+  <br>Conditional Statement: (if $variableName is "string"/number/boolean) (else:)
+  <br>Elseif conditional statement: (if $variableName is "string"/number/boolean) (elseif: $variableName is "string"/number/boolean)
+  <br>History: (history:) This one prints out all the passges that the player has ever been, which is a little odd to use.
+  <br><strong>To sum up:</strong> to make variables more useful and practically engaged with the story itself, it requires a completed story to hold these variables and endow meanings to them.
+  <br>Also, I think to make a list to sort out all the variables and their corresponding level would be very helpful.
  </li>
  
 <br><li><b>Inventory</b>
