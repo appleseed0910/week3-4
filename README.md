@@ -53,12 +53,12 @@ Below Burger branch, I also added some detailed information choices about two bu
   <br>This part is not quite difficult to start and memorize. 
   <br>Here are some notes that I took:
   <ol>
-    <li><br>Create variables: (set: $variableName to "string"/number/boolean)</li>
-  <li><br>Print varibales: (pring: $variableName)</li>
-  <li><br>Variables calculating: (set $variableName to $variableName +/-/*/ value)</li>
-  <li><br>Conditional Statement: (if $variableName is "string"/number/boolean) (else:)</li>
-  <li><br>Elseif conditional statement: (if $variableName is "string"/number/boolean) (elseif: $variableName is "string"/number/boolean)</li>
-  <li><br>History: (history:) This one prints out all the passges that the player has ever been, which is a little odd to use.</li>
+    <li>Create variables: (set: $variableName to "string"/number/boolean)</li>
+  <li>Print varibales: (pring: $variableName)</li>
+  <li>Variables calculating: (set $variableName to $variableName +/-/*/ value)</li>
+  <li>Conditional Statement: (if $variableName is "string"/number/boolean) (else:)</li>
+  <li>Elseif conditional statement: (if $variableName is "string"/number/boolean) (elseif: $variableName is "string"/number/boolean)</li>
+  <li>History: (history:) This one prints out all the passges that the player has ever been, which is a little odd to use.</li>
   </ol>
   <br><strong>To sum up:</strong> to make variables more useful and practically engaged with the story itself, it requires a completed story to hold these variables and endow meanings to them.
   <br>Also, I think to make a list to sort out all the variables and their corresponding level would be very helpful.
