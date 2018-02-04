@@ -23,8 +23,7 @@ Among these two weeks, for practicing more practical small functions in Twine, I
 <h3>Inquiry</h3>
 Practice multiple usages provided internal Twine. It contains:
 <ul style="p{line-height:90%;}">
-  <li>Examine the story structure(100%)</li>
-  <li>Examine choices types(100%)</li>
+  <li>Examine choices types</li>
   <li>Using Variables</li>
   <li>Inventory</li>
   <li>Adding Images</li>
@@ -41,11 +40,6 @@ Here are some tutorials and solutions I found for each inquiry.
 <br><br>
 <ol>
 
- <li><b>Examine the story structure</b>
-  <br><em>Book chapter 6 Stasis, Catalyst, and Climax: Understanding Story Arc</em>
-  <br><em>Book chapter 7 Exploring Interactive Fiction Genres</em>
-<br>
-</li>
 
 <br><li><b>Exmaine choices types</b>
  <br><em>Book chapter 2 Using Choice to Create Agency</em>
@@ -80,5 +74,9 @@ Below Burger branch, I also added some detailed information choices about two bu
 
 <h3>Expectation</h3>
 Here are some potential inquiries for the next week.
-<br>Book chapter 12 Making a Role-Playing Game
-<br>Book chapter 13 Combat and Consequences in Role-Playing Games
+<br><em>Book chapter 12 Making a Role-Playing Game</em>
+<br><em>Book chapter 13 Combat and Consequences in Role-Playing Games</em>
+<b>Examine the story structure</b>
+  <br><em>Book chapter 6 Stasis, Catalyst, and Climax: Understanding Story Arc</em>
+  <br><em>Book chapter 7 Exploring Interactive Fiction Genres</em>
+<br>
