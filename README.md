@@ -42,8 +42,8 @@ Here are some tutorials and solutions I found for each inquiry.
 <ol>
 
  <li><b>Examine the story structure</b>
-<br>Book chapter 6 Stasis, Catalyst, and Climax: Understanding Story Arc
-<br>Book chapter 7 Exploring Interactive Fiction Genres
+  <br><em>Book chapter 6 Stasis, Catalyst, and Climax: Understanding Story Arc</em>
+  <br><em>Book chapter 7 Exploring Interactive Fiction Genres</em>
 <br>
 </li>
 
