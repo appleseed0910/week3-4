@@ -48,30 +48,30 @@ Here are some tutorials and solutions I found for each inquiry.
 </li>
 
 <br><li><b>Exmaine choices types</b>
-<br>Book chapter 2 Using Choice to Create Agency
+ <br><em>Book chapter 2 Using Choice to Create Agency</em>
 <br>In this chapter, the author demonstrates different types and usages of choice, which is the main tool for users to explore a Twine story. I made a choice type exclusive practice file in Twine.
 <br>In this sandbox, I tried to create Preference Choices(the first node), Value Choices(Burger), Adventure Choices(Chinese food), Ethical Choices(Pizza), and Exploratory Choices(Salad).
 Below Burger branch, I also added some detailed information choices about two burger shops separately.
 </li>
 
 <br><li><b>Using Variables</b>
-<br>Book chapter 5 Building Objects with Variables
+  <br><em>Book chapter 5 Building Objects with Variables</em>
  </li>
  
 <br><li><b>Inventory</b>
-<br>Book chapter 9 Maintaining an Inventory
+ <br><em>Book chapter 9 Maintaining an Inventory</em>
 </li>
   
 <br><li><b>Adding Images</b>
-<br>Book chapter 16 Adding Images in a New Format
+ <br><em>Book chapter 16 Adding Images in a New Format</em>
 </li>
 
 <br><li><b>Changing Text Appearance</b>
-<br>Book chapter 14 Wiggling Words: Changing the Text Appearance
+ <br><em>Book chapter 14 Wiggling Words: Changing the Text Appearance</em>
 </li>
 
 <br><li><b>Changing the Game Appearance in Harlowe(Partly)</b>
-<br>Book chapter 15 Story Style: Changing the Game Appearance in Harlowe
+ <br><em>Book chapter 15 Story Style: Changing the Game Appearance in Harlowe</em>
 </li>
 
 
