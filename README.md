@@ -49,6 +49,9 @@ Here are some tutorials and solutions I found for each inquiry.
 
 <br><li><b>Exmaine choices types</b>
 <br>Book chapter 2 Using Choice to Create Agency
+<br>In this chapter, the author demonstrates different types and usages of choice, which is the main tool for users to explore a Twine story. I made a choice type exclusive practice file in Twine.
+<br>In this sandbox, I tried to create Preference Choices(the first node), Value Choices(Burger), Adventure Choices(Chinese food), Ethical Choices(Pizza), and Exploratory Choices(Salad).
+Below Burger branch, I also added some detailed information choices about two burger shops separately.
 </li>
 
 <br><li><b>Using Variables</b>
