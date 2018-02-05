@@ -70,6 +70,9 @@ Below Burger branch, I also added some detailed information choices about two bu
   
 <br><li><b>Adding Images</b>
  <br><em>Book chapter 16 Adding Images in a New Format</em>
+  <br>In this chapter, the author explains how to add images under SugarCube story format, and mentions several supplementary functions of images as well. 
+  <br>Such as to attach different choices with different images(setter links):[img["link"][Checkout][$variableName to "imageContent"]]
+  <br>Make mouseover information on images: [img["additional information"|"image link"]]
 </li>
 
 <br><li><b>Changing Text Appearance</b>
