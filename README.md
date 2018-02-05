@@ -27,8 +27,6 @@ Practice multiple usages provided internal Twine. It contains:
   <li>Using Variables</li>
   <li>Inventory</li>
   <li>Adding Images</li>
-  <li>Changing Text Appearance</li>
-  <li>Changing the Game Appearance in Harlowe(Partly)</li>
   </ul>
   
 <h3>ResearchPlan</h3>
@@ -81,13 +79,6 @@ Below Burger branch, I also added some detailed information choices about two bu
   <br>Make mouseover information on images: [img["additional information"|"image link"]]
 </li>
 
-<br><li><b>Changing Text Appearance</b>
- <br><em>Book chapter 14 Wiggling Words: Changing the Text Appearance</em>
-</li>
-
-<br><li><b>Changing the Game Appearance in Harlowe(Partly)</b>
- <br><em>Book chapter 15 Story Style: Changing the Game Appearance in Harlowe</em>
-</li>
 
 
 
@@ -100,4 +91,6 @@ Here are some potential inquiries for the next week.
 <b>Examine the story structure</b>
   <br><em>Book chapter 6 Stasis, Catalyst, and Climax: Understanding Story Arc</em>
   <br><em>Book chapter 7 Exploring Interactive Fiction Genres</em>
+  <br><em>Book chapter 14 Wiggling Words: Changing the Text Appearance</em>
+  <br><em>Book chapter 15 Story Style: Changing the Game Appearance in Harlowe</em>
 <br>
