@@ -66,6 +66,12 @@ Below Burger branch, I also added some detailed information choices about two bu
  
 <br><li><b>Inventory</b>
  <br><em>Book chapter 9 Maintaining an Inventory</em>
+  <br>This chapter is a little more difficult than others for me. Though how to write the commands is clear enough.
+  <br>Set up an inventory: (set: $inventoryName to (array:))
+  <br>Add elements to the inventory: (set: $inventoryName to $inventoryName + (array:"element"))
+  <br>Drop elements to the inventory: (set: $inventoryName to $inventoryName - (array:"element"))
+  <br>But it seems I met some problems when I tried to connect links with add/drop functions. And also, there're some more statements need to pay attention such as "join".
+  <br>Basically, Twine uses array concept to control the inventory, I think it's more suitable to make the items inside the player's inventory become 'triggers' to other events instead more further complicated usages.
 </li>
   
 <br><li><b>Adding Images</b>
